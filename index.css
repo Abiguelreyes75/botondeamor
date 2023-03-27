@@ -1,0 +1,24 @@
+ *{
+
+margin: 0%;
+
+ }
+
+.container {
+
+  background: rgba(245, 205, 236, 0.712);
+  width: 100vw;
+  height: 100vh;
+  color: rgba(200, 88, 228, 0.76);
+
+
+
+}
+
+#noBtn {
+
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform:  translate(-0%,-50%);
+}
